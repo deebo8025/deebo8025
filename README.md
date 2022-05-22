@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deebo8025
+- 👋 Hi, I’m @deebo
 - 👀 I’m interested in using DLT to enrich our daily and social lives.
 - 🌱 I’m currently learning code at my own pace. Developing at Hotchners.
 - 💞️ I’m looking to advance my developer knowledge to create use cases that secure value.
